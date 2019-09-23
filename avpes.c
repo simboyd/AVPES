@@ -24,7 +24,7 @@
 //
 // avpes --zero myfile.txt
 //
-// avpes --encbmp myimage.bmp
+// avpes --encbmp myimage.bmp mydata.dat
 // avpes --decbmp myimage.bmp 1000
 
 #include <stdio.h>

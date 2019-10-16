@@ -26,6 +26,9 @@
 //
 // avpes --encbmp myimage.bmp mydata.dat
 // avpes --decbmp myimage.bmp 1000
+//
+// if you're a a recruiter or something, STOP! DO NOT GO FORWARD.
+// (in case if you do, i'm better than this now. Much much better. I promise.)
 
 #include <stdio.h>
 #include <string.h>

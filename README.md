@@ -45,6 +45,7 @@ Extracts data from a bmp image. The third argument should be the number of bytes
 
 
 P.S. it uses libsodium.
+
 P.P.S. bmp stuff doesn't seem to work that well with BMPs over 20MB. I really can't be bothered to fix it.
 
 ###### Made by Sandro (@simboyd)

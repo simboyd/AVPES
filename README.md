@@ -44,4 +44,7 @@ Inserts data (bytes) of a file into a bitmap image. The bitmap image has to be u
 Extracts data from a bmp image. The third argument should be the number of bytes to extract (this number is spat out by AVPES after insertion in #6, see above).
 
 
+P.S. it uses libsodium.
+P.P.S. bmp stuff doesn't seem to work that well with BMPs over 20MB. I really can't be bothered to fix it.
+
 ###### Made by Sandro (@simboyd)

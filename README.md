@@ -3,7 +3,7 @@
 1. Encrypts a file using the default built-in encryption                 (--encdef)
 2. Decrypts a file using the default built-in decryption                 (--decdef)
 3. Encrypts a file using a vigenere-like method of encryption            (--encvig)
-4. Dncrypts a file using a vigenere-like method of decryption            (--decvig)
+4. Decrypts a file using a vigenere-like method of decryption            (--decvig)
 5. Zeroes out a file for irreversible deletion                           (--zero) 
 6. Inserts data into an uncompressed 24-bit bitmap image                 (--encbmp)
 7. Extracts data from an uncompressed 24-bit bitmap image                (--decbmp)
